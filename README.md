@@ -14,6 +14,15 @@
 
 You are required to obtain the client on your own.
 
+### Server Feature ###
+1.Friend  
+2.Club  
+3.Boxes  
+4.Admin  
+5.Team（wip）  
+6.Change theme in setting（need client support）  
+7.Mail  
+8.Useless matchmaking screen  
 
 ## 怎么玩: ##
 
@@ -31,12 +40,12 @@ You are required to obtain the client on your own.
 
 
 ## 服务器功能 ##
-1.好友
-2.战队(有聊天、升/降职位)
-3.开箱子(概率是国服的)
-4.OP管理，指令在战队输入，具体指令见ClubCommandHandler.py
-5.单人小队(没啥用)
-6.设置-地区 改成了换背景，需要特殊客户端
-7.半个邮箱
-8.匹配界面(没啥用)
+1.好友  
+2.战队(有聊天、升/降职位)  
+3.开箱子(概率是国服的)  
+4.OP管理，指令在战队输入，具体指令见ClubCommandHandler.py  
+5.单人小队(没啥用)  
+6.设置-地区 改成了换背景，需要特殊客户端  
+7.半个邮箱  
+8.匹配界面(没啥用)  
 
